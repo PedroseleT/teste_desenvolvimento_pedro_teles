@@ -1,4 +1,4 @@
-Olá! Este é o meu projeto para a solução do teste técnico e eu desenvolvi o sistema em Python, (linguagem qual estou mais familiariazada) V - 3.14. 
+Olá! Este é o meu projeto para a solução do teste técnico e eu desenvolvi o sistema em Python, (linguagem qual estou mais familiariazado) V - 3.14. 
 Eu organizei tudo em módulos para facilitar manutenção e a escalabilidade, usei também a 
 biblioteca Rich para criar uma interface no terminal mais visual, com tabelas e painéis 
 estilizados, então nada de interface gráfica, tudo via CLI. 
